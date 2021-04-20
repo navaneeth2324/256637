@@ -4,3 +4,7 @@ a=20
 b=35
 sum=float(a+b)
 print(sum)
+
+#Loops 
+for i in range(5):
+    print("LTTS")
