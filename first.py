@@ -8,3 +8,7 @@ print(sum)
 #Loops 
 for i in range(5):
     print("LTTS")
+
+#Calculate square
+a=20
+print(a*a)
